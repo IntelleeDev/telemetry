@@ -1,0 +1,10 @@
+com\intellio\telemetry\qualifiers\NotificationQualifier.class
+com\intellio\telemetry\model\Beat.class
+com\intellio\telemetry\notification\Notifiable.class
+com\intellio\telemetry\utils\NetworkUtils.class
+com\intellio\telemetry\qualifiers\Alert.class
+com\intellio\telemetry\TelemetryApplication.class
+com\intellio\telemetry\resource\BeatService.class
+com\intellio\telemetry\enums\NotificationType.class
+com\intellio\telemetry\resource\BeatResource.class
+com\intellio\telemetry\mqtt\Publisher.class
